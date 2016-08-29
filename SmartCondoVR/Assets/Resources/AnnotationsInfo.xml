@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Notes>
+	<Object><!-- Bedroom Annotations (list element #0) -->
+		<Name>BED</Name>
+		<HowtoUse>This is the bed. It includes a simple-pressure sensor that serves to monitor different states (e.g. pressure-on/pressure-off), thus relaying to researchers the patient's usage of the bed.</HowtoUse>	
+	</Object>
+  <Object>
+    <Name>BEDROOM TV</Name>
+    <HowtoUse>This the bedroom television.</HowtoUse>
+  </Object>
+  <Object>
+    <Name>BACK DOOR</Name>
+    <HowtoUse>This is the back door of the Smart Condo.</HowtoUse>
+  </Object>
+  
+  
+	 <Object><!-- Kitchen Annotations (list element #3) -->
+    <Name>KITCHEN ISLAND</Name>
+    <HowtoUse>This is the kitchen island. It can be raised or lowered electronically to accomodate different ergonomic postures for various tasks, sitting or standing positions.</HowtoUse>
+  </Object>
+  <Object>
+    <Name>AUTOPANTRY</Name>
+    <HowtoUse>This kitchen cabinet is an autopantry. It is motor powered enabling each shelf to automatically lower and revolve for easy reach. This device operates in a similar way to a vertical carousel and can move in both directions for either an up or down motion.</HowtoUse>
+  </Object>
+  <Object>
+    <Name>KITCHEN SINK</Name>
+    <HowtoUse>This is the kitchen sink. It can be raised or lowered electronically to accomodate ergonomic postures for various tasks as well as sitting or standing positions.</HowtoUse>
+  </Object>
+  <Object>
+    <Name>TOASTER</Name>
+    <HowtoUse>This is the toaster.</HowtoUse>
+  </Object>
+  <Object>
+    <Name>DISHWASHER</Name>
+    <HowtoUse>This is the dishwasher.</HowtoUse>
+  </Object>
+  <Object>
+    <Name>KITCHEN OUTLET</Name>
+    <HowtoUse>This is the kitchen 120V outlet.</HowtoUse>
+  </Object>
+  <Object>
+    <Name>STOVE</Name>
+    <HowtoUse>This is the stove.</HowtoUse>
+  </Object>
+  <Object><!-- list element #10 -->
+    <Name>RANGE HOOD</Name>
+    <HowtoUse>This is the range hood.</HowtoUse>
+  </Object>
+  <Object>
+    <Name>MICROWAVE</Name>
+    <HowtoUse>This is the microwave.</HowtoUse>
+  </Object>  
+  <Object>
+    <Name>OVEN</Name>
+    <HowtoUse>This is the oven.</HowtoUse>
+  </Object> 
+  <Object>
+		<Name>FRIDGE</Name>
+		<HowtoUse> This is the fridge.</HowtoUse>	
+	</Object>
+
+
+    
+  
+  <Object><!-- Bathroom Annotations (list element #15) -->
+    <Name>BATHTUB</Name>
+    <HowtoUse>This is the bathtub.</HowtoUse>
+  </Object>
+  <Object>
+    <Name>TOILET</Name>
+    <HowtoUse>This is the toilet. It includes a sensor that monitors flushing.</HowtoUse>
+  </Object>
+  <Object>
+    <Name>BATHROOM SINK</Name>
+    <HowtoUse>This is the bathroom sink.</HowtoUse>
+  </Object>
+  <Object>
+    <Name>SOAP DISPENSER</Name>
+    <HowtoUse>This is the soap dispenser.</HowtoUse>
+  </Object>
+  <Object>
+    <Name>BATHROOM OUTLET</Name>
+    <HowtoUse>This is the bathroom 120V outlet.</HowtoUse>
+  </Object>
+  
+  
+  <Object><!-- Dining Room Annotations (list element #20) -->
+    <Name>DINING TABLE</Name>
+    <HowtoUse>This is the dining table. It is wheelchair accessible. Its pull out storage for cutlery and condiments allows for energy conservation.</HowtoUse>
+  </Object>
+
+  <Object><!-- Foyer Annotations (list element #21) -->
+    <Name>FRONT DOOR</Name>
+    <HowtoUse>This is the front door of the Smart Condo.</HowtoUse>
+  </Object>
+
+  <Object><!-- Miscellanous Annotations (list element #22) -->
+    <Name>FLOOR</Name>
+    <HowtoUse>This is the floor. The Smart Condo's floor was made with cork flooring. This feature helps to absorb foot falls.</HowtoUse>
+  </Object>
+  
+</Notes>
