@@ -1,5 +1,4 @@
 # SmartCondoAnnotations
-# Smart-Condo-Annotations-Project
 
 **The Smart Condo**
 ===================
