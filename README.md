@@ -15,7 +15,7 @@ This project's goal was to develop a code that provides users a method to add an
 **Opening & Running Project File**
 ==================================
 
-The Smart Condo Annotations is a Unity Project file. Upon opening the file in Unity (choose the folder "SmartCondoVR"), open the scene named "Condo". The way that the components of the annotation window are positioned, the Game window must be full-screen horizontally. After pressing play, position your mouse cursor to the left of the centre (may need to be a bit far left) of the Game window in order to rotate the camera's view effectively. Hovering the cursor over an object in the model will bring up its annotations. Moving the mouse to point at different objects switches the annotations to the object that is currently being looked at. Use the arrow keys to position the first-person controller and the mouse together to explore the condo in this way.
+The Smart Condo Annotations is a Unity Project file. Upon opening the file in Unity (choose the folder "SmartCondoVR"), open the scene named "Condo". Under the Game window on the right side, click on "Maximize on Play". After pressing play, position your mouse cursor to the left of the centre of the Game window in order to rotate the camera's view effectively during gameplay. Hovering the cursor over an object in the model will bring up its annotations. Moving the mouse to point at different objects switches the annotations to the object that is currently being looked at. Use the arrow keys to position the first-person controller and the mouse together to explore the condo in this way.
 
 **XML File**
 ============
@@ -84,7 +84,7 @@ If an annotation is added to the end of the XML, the renumbering can be disregar
 
 Edits will need to be made within both scripts named "ReadAnnotationName.cs" and "ReadAnnotationInfo.cs". It is the same process to add a new annotation for both.
 
-If a new annotation was added between existing nodes within the XML, the list element numbers will be need to be renumbered as described before. Renumbering will need to be done in the list of declared string variables (change mylist[#]) and then within the if-statements that instantiate the annotation text (change the annotation#). 
+If a new annotation was added between existing nodes within the XML, the list element numbers will be need to be renumbered as described before. In the list of declared string variables, add another line to include the new annotation (write code: string annotation# = mylist[#].tagname;). Renumbering (similarly to the XML file) will need to be done within the if-statements that instantiate the annotation text (change the annotation#) as well. 
 
 A new if-statement can be written exactly like seen in the code already. All that needs to be changed is the string for the name of the object as seen in the hierarchy. 
 
